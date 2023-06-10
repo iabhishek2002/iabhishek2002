@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on <a href = "https://github.com/iabhishek2002/ExpenseManager">ExpenseManager</a>
+- 🌱 I’m currently working on <a href = "https://github.com/iabhishek2002/Job-Portal">Job Portal</a>
 
 - 💬 Ask me about MERN
 
