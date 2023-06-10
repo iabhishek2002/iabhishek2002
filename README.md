@@ -2,17 +2,17 @@
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iritikkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iritikkumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iritikkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iabhishek2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on <a href = "https://github.com/abhishekmishravlog/ExpenseManager">ExpenseManager</a>
+- 🌱 I’m currently working on <a href = "https://github.com/iabhishek2002/ExpenseManager">ExpenseManager</a>
 
 - 💬 Ask me about MERN
 
 - 📫 How to reach me abhishek.mish2002@gmail.com
 
-- 👨🏻‍💻 All of my projects are available at <a href = "https://github.com/abhishekmishravlog">github.com/abhishekmishravlog/ </a>
+- 👨🏻‍💻 All of my projects are available at <a href = "https://github.com/iabhishek2002">github.com/iabhishek2002/ </a>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -38,8 +38,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmishravlog&show_icons=true&locale=en&layout=compact" alt="abhishekmishravlog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhishek2002&show_icons=true&locale=en&layout=compact" alt="iabhishek2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmishravlog&show_icons=true&locale=en" alt="abhishekmishravlog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhishek2002&show_icons=true&locale=en" alt="iabhishek2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmishravlog&" alt="abhishekmishravlog" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iabhishek2002&" alt="iabhishek2002" /></p>
